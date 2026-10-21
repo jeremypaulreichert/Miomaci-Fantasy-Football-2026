@@ -36,4 +36,4 @@ The design studied [FantasyFootballBench by Arya Tschand](https://github.com/ary
 
 NFL source facts were collected using nflverse and Tank01, with research references obtained through Exa. Raw feeds and publisher content are omitted. See [data sources](DATA_SOURCES.md), [methods](METHODS.md), [omissions](OMITTED_FILES.md) and [license scope](LICENSE_SCOPE.md).
 
-New verification code is MIT licensed. Project-authored documentation and derived records are offered under CC BY 4.0 only to the extent Miomaci holds the necessary rights. Those grants do not relicense third-party material or proprietary provider output.
+New verification code is MIT licensed. Project-authored documentation and derived records are offered under CC BY 4.0 only to the extent Jeremy Reichert holds the necessary rights. Those grants do not relicense third-party material or proprietary provider output.
