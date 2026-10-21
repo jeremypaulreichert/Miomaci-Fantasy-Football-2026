@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Cite this minimal record with its Git commit; consult METHODS.md before interpreting the results."
+title: "Miomaci Fantasy Football 2026"
+type: dataset
+version: "1.0-minimal"
+authors:
+  - family-names: "Reichert"
+    given-names: "Jeremy"
+license: CC-BY-4.0
+abstract: "Derived summaries of an organizer-supervised AI fantasy-football draft: 96 AI selections, 54 organizer fallback selections, and partial-season scoring. Original data, provider responses and historical code are omitted."

@@ -1,0 +1,58 @@
+{
+  "schema_version": "miomaci.football.minimal-public-provenance/1",
+  "created_on": "2026-10-20",
+  "scope": "DERIVED_SUMMARIES_AND_NEW_OFFLINE_VERIFIER",
+  "historical_commits": {
+    "draft_execution": "059e14d9976f028020aca5f5501c1faee4d60f86",
+    "draft_and_lineup_archive": "0dd221b5a1f880a2e371d5b822dc9d884ab4ff18",
+    "week1_authority_release": "38404c4ef357f1f9ccacebc66a0f7bee1eb05edf",
+    "week1_receipt_fix": "eaf8ed54ce2ccb6784658dfc7b00505d110f23ee",
+    "weeks2_to5_review": "a26aad70b3a73b75d4a2fa861d19812f266673cb"
+  },
+  "original_artifact_fingerprints": {
+    "draft_autopsy": {
+      "sha256": "17f184f62872a295d5c97528d357d9e5385b89a868c221569736dd717eee056c",
+      "bytes": 317932
+    },
+    "opening_lineup_review": {
+      "sha256": "e5ea04aed6e79c3d16f9bc50661fb2ca4f6a4334f93c9695cdad322da6fe24e3",
+      "bytes": 27277
+    },
+    "activated_lineups": {
+      "sha256": "36f7dec1a5f203e3d479cbce7dbdda2bebd48f2b62e068e0058e0fff76ff972c",
+      "bytes": 11593
+    },
+    "week1_release": {
+      "sha256": "5d3bcf04df260b9845f99b3e8843381108ed19b1fad38a69aee24e60ec6af54d",
+      "bytes": 55747
+    },
+    "published_catchup_projection": {
+      "sha256": "3b1118a3d260f92fe602aef6ac653adb835a74906a63a0a0b4fcc87026a475f8",
+      "bytes": 2593
+    },
+    "catchup_review": {
+      "sha256": "f109816ace58718e000ed587887ff1daac41668b5af842f8ddf836ab70a7aa6f",
+      "bytes": 369373
+    }
+  },
+  "original_code_snapshots_included": false,
+  "original_git_history_imported": false,
+  "databases_included": false,
+  "raw_source_data_included": false,
+  "all_legacy_branch_secret_audit_completed": false,
+  "off_device_backup_verified": false,
+  "full_reproduction_supported": false,
+  "source_artifacts_available_in_this_release": false,
+  "player_identity_source": {
+    "url": "https://miomaci.com/fantasy-football/rosters.json",
+    "raw_sha256": "7a020185ff0034c5b889795b5259c31e5100ae91a42f424267a5dade6d1708cf",
+    "lf_normalized_sha256": "c2532d278de7573374c6d20aa421873c74bde0a3dc0f01cb66410d2d623d9318",
+    "bytes": 32725,
+    "join": "pick number; provider and origin verified",
+    "fields": [
+      "player_id",
+      "player_name"
+    ],
+    "owner_approved_on": "2026-10-20"
+  }
+}

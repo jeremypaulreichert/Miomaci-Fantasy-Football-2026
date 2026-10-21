@@ -1,0 +1,74 @@
+{
+  "schema_version": "miomaci.football.public-file-manifest/1",
+  "manifest_excluded_from_own_hash_list": true,
+  "files": {
+    ".gitattributes": {
+      "sha256": "5033768387d3f08fca61143a5deba8a88a4817ba33993fccd4ba9b5eb9c1050e",
+      "bytes": 77
+    },
+    ".gitignore": {
+      "sha256": "23571fe069ca12848faad6835b24993c334b2ab08d18d9b70ae7e5d5bbaef4e2",
+      "bytes": 379
+    },
+    "CITATION.cff": {
+      "sha256": "0e469c456af5ea18b9547d307aa2c2a29eee45bae131c2be525c7ce3b9aea6c8",
+      "bytes": 518
+    },
+    "DATA_SOURCES.md": {
+      "sha256": "0cfd652be09242da1e056c4c9080ca8a4dbff1068ee9192d71c8ba2f115e96ba",
+      "bytes": 1992
+    },
+    "LICENSE": {
+      "sha256": "35e668b2d0542a21c268d2e66bd73845bbbf8ead01c79008eb0ef719eb0e67bf",
+      "bytes": 1072
+    },
+    "LICENSE-DATA.md": {
+      "sha256": "b5f95fb4ae8efbc7525e51288c0df8bdfbda53308b16630751d1c64f50bdc04e",
+      "bytes": 565
+    },
+    "LICENSE_SCOPE.md": {
+      "sha256": "005d077fdc6548c9e3bcc8261bbe14a628119ea34d452fbd4dead1354eb757ad",
+      "bytes": 861
+    },
+    "METHODS.md": {
+      "sha256": "d0941e1eded894dbd56096a4951e37ce4cfcce7e3019bfc5deadde893745ff34",
+      "bytes": 3423
+    },
+    "OMITTED_FILES.md": {
+      "sha256": "77e15ec698ebd70201471525f0deb82faaf04f5e2fddbafcaa9aa3d490e38532",
+      "bytes": 1779
+    },
+    "PROVENANCE.json": {
+      "sha256": "e220ab576bfe467778f646171a9c44dc787e66be3fdd0d1ae544d432af7b027a",
+      "bytes": 2225
+    },
+    "README.md": {
+      "sha256": "59d7c6957124bed854f3532bcb249b7db92f7a54f77dc967dded41f1566adef4",
+      "bytes": 3363
+    },
+    "data/draft_picks.json": {
+      "sha256": "e25b71bd6c2b2c45c1580785480073901a9f068b7196db96c5471d0f8f52e390",
+      "bytes": 28528
+    },
+    "data/draft_summary.json": {
+      "sha256": "e504914d868cdbfa8e19cb84732ea4de99642e042d8ca634fe5a3e7eb1a0e4c6",
+      "bytes": 2290
+    },
+    "data/source_receipts.json": {
+      "sha256": "af5bca505f23da9a654cc1db975efc3fc86721c556b81032bb9c51ccf30c298f",
+      "bytes": 14259
+    },
+    "data/team_scores.json": {
+      "sha256": "a38d5bc7cbba8eb696200a7dc1f7de4c86b6fc6a56fd8c5129e52846926ae5fd",
+      "bytes": 2688
+    },
+    "scripts/verify_release.py": {
+      "sha256": "0e8e3cfbf51a067815e4a1cf960e11bfa8e72cf0bb3757fe573f9ed146123925",
+      "bytes": 6389
+    },
+    "tests/test_verify_release.py": {
+      "sha256": "3365f9eded92732df28e839e12e44b5cca38d136cc3cb2e6e84e80a2cfcedccd",
+      "bytes": 3640
+    }
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "schema_version": "miomaci.football.public-team-scores/1",
+  "season": 2026,
+  "data_review_date": "2026-10-15",
+  "included_weeks": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "week_states": {
+    "1": "FINAL",
+    "2": "PROVISIONAL",
+    "3": "PROVISIONAL",
+    "4": "PROVISIONAL",
+    "5": "PROVISIONAL"
+  },
+  "treatment": "UNCHANGED_ORGANIZER_LINEUPS_AI_MANAGEMENT_INACTIVE",
+  "units": "INTEGER_MILLIPOINTS",
+  "teams": [
+    {
+      "provider": "anthropic",
+      "weeks_milli": {
+        "1": 57500,
+        "2": 136720,
+        "3": 128820,
+        "4": 111000,
+        "5": 88520
+      },
+      "cumulative_milli": 522560
+    },
+    {
+      "provider": "deepseek",
+      "weeks_milli": {
+        "1": 47740,
+        "2": 30280,
+        "3": 54980,
+        "4": 38760,
+        "5": 63200
+      },
+      "cumulative_milli": 234960
+    },
+    {
+      "provider": "gemini",
+      "weeks_milli": {
+        "1": 130960,
+        "2": 148440,
+        "3": 107600,
+        "4": 118300,
+        "5": 129560
+      },
+      "cumulative_milli": 634860
+    },
+    {
+      "provider": "meta",
+      "weeks_milli": {
+        "1": 116760,
+        "2": 114400,
+        "3": 142500,
+        "4": 101880,
+        "5": 104100
+      },
+      "cumulative_milli": 579640
+    },
+    {
+      "provider": "mistral",
+      "weeks_milli": {
+        "1": 49700,
+        "2": 72000,
+        "3": 54600,
+        "4": 39100,
+        "5": 31900
+      },
+      "cumulative_milli": 247300
+    },
+    {
+      "provider": "moonshot",
+      "weeks_milli": {
+        "1": 168220,
+        "2": 137560,
+        "3": 116820,
+        "4": 101220,
+        "5": 110900
+      },
+      "cumulative_milli": 634720
+    },
+    {
+      "provider": "openai",
+      "weeks_milli": {
+        "1": 97800,
+        "2": 89080,
+        "3": 98800,
+        "4": 106780,
+        "5": 121520
+      },
+      "cumulative_milli": 513980
+    },
+    {
+      "provider": "qwen",
+      "weeks_milli": {
+        "1": 32400,
+        "2": 21900,
+        "3": 23100,
+        "4": 13900,
+        "5": 25800
+      },
+      "cumulative_milli": 117100
+    },
+    {
+      "provider": "xai",
+      "weeks_milli": {
+        "1": 139460,
+        "2": 114480,
+        "3": 107380,
+        "4": 154120,
+        "5": 121300
+      },
+      "cumulative_milli": 636740
+    },
+    {
+      "provider": "zai",
+      "weeks_milli": {
+        "1": 126060,
+        "2": 94220,
+        "3": 65060,
+        "4": 79220,
+        "5": 71000
+      },
+      "cumulative_milli": 435560
+    }
+  ],
+  "provisional_cumulative_order": [
+    "xai",
+    "gemini",
+    "moonshot",
+    "meta",
+    "anthropic",
+    "openai",
+    "zai",
+    "mistral",
+    "deepseek",
+    "qwen"
+  ]
+}

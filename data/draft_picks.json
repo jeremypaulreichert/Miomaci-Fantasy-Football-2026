@@ -1,0 +1,1205 @@
+{
+  "schema_version": "miomaci.football.public-pick-provenance/1",
+  "picks": [
+    {
+      "pick": 1,
+      "provider": "moonshot",
+      "origin": "AI",
+      "mechanism": "AI_PICK",
+      "player_id": "00-0036322",
+      "player_name": "Justin Jefferson"
+    },
+    {
+      "pick": 2,
+      "provider": "openai",
+      "origin": "AI",
+      "mechanism": "AI_PICK",
+      "player_id": "00-0038542",
+      "player_name": "Bijan Robinson"
+    },
+    {
+      "pick": 3,
+      "provider": "mistral",
+      "origin": "AI",
+      "mechanism": "AI_PICK",
+      "player_id": "00-0033280",
+      "player_name": "Christian McCaffrey"
+    },
+    {
+      "pick": 4,
+      "provider": "deepseek",
+      "origin": "ORGANIZER",
+      "mechanism": "UNKNOWN_ORIGINAL_TRANSPORT_FAILURE",
+      "player_id": "00-0023459",
+      "player_name": "Aaron Rodgers"
+    },
+    {
+      "pick": 5,
+      "provider": "meta",
+      "origin": "AI",
+      "mechanism": "AI_PICK",
+      "player_id": "00-0034844",
+      "player_name": "Saquon Barkley"
+    },
+    {
+      "pick": 6,
+      "provider": "gemini",
+      "origin": "AI",
+      "mechanism": "AI_PICK",
+      "player_id": "00-0036358",
+      "player_name": "CeeDee Lamb"
+    },
+    {
+      "pick": 7,
+      "provider": "zai",
+      "origin": "AI",
+      "mechanism": "AI_PICK",
+      "player_id": "00-0034857",
+      "player_name": "Josh Allen"
+    },
+    {
+      "pick": 8,
+      "provider": "xai",
+      "origin": "AI",
+      "mechanism": "AI_PICK",
+      "player_id": "00-0039139",
+      "player_name": "Jahmyr Gibbs"
+    },
+    {
+      "pick": 9,
+      "provider": "anthropic",
+      "origin": "AI",
+      "mechanism": "AI_PICK",
+      "player_id": "00-0036900",
+      "player_name": "Ja'Marr Chase"
+    },
+    {
+      "pick": 10,
+      "provider": "qwen",
+      "origin": "AI",
+      "mechanism": "AI_PICK",
+      "player_id": "00-0035676",
+      "player_name": "A.J. Brown"
+    },
+    {
+      "pick": 11,
+      "provider": "qwen",
+      "origin": "AI",
+      "mechanism": "AI_PICK",
+      "player_id": "00-0036252",
+      "player_name": "Michael Pittman"
+    },
+    {
+      "pick": 12,
+      "provider": "anthropic",
+      "origin": "AI",
+      "mechanism": "AI_PICK",
+      "player_id": "00-0036223",
+      "player_name": "Jonathan Taylor"
+    },
+    {
+      "pick": 13,
+      "provider": "xai",
+      "origin": "AI",
+      "mechanism": "AI_PICK",
+      "player_id": "00-0036963",
+      "player_name": "Amon-Ra St. Brown"
+    },
+    {
+      "pick": 14,
+      "provider": "zai",
+      "origin": "ORGANIZER",
+      "mechanism": "MALFORMED_OR_ILLEGAL_ACTION",
+      "player_id": "00-0025565",
+      "player_name": "Nick Folk"
+    },
+    {
+      "pick": 15,
+      "provider": "gemini",
+      "origin": "AI",
+      "mechanism": "AI_PICK",
+      "player_id": "00-0037840",
+      "player_name": "Kyren Williams"
+    },
+    {
+      "pick": 16,
+      "provider": "meta",
+      "origin": "AI",
+      "mechanism": "AI_PICK",
+      "player_id": "00-0034796",
+      "player_name": "Lamar Jackson"
+    },
+    {
+      "pick": 17,
+      "provider": "deepseek",
+      "origin": "ORGANIZER",
+      "mechanism": "CONFIRMED_OUTPUT_LIMIT",
+      "player_id": "00-0026158",
+      "player_name": "Joe Flacco"
+    },
+    {
+      "pick": 18,
+      "provider": "mistral",
+      "origin": "ORGANIZER",
+      "mechanism": "CONFIRMED_OUTPUT_LIMIT",
+      "player_id": "00-0026300",
+      "player_name": "Josh Johnson"
+    },
+    {
+      "pick": 19,
+      "provider": "openai",
+      "origin": "ORGANIZER",
+      "mechanism": "MALFORMED_OR_ILLEGAL_ACTION",
+      "player_id": "00-0026498",
+      "player_name": "Matthew Stafford"
+    },
+    {
+      "pick": 20,
+      "provider": "moonshot",
+      "origin": "AI",
+      "mechanism": "AI_PICK",
+      "player_id": "00-0032764",
+      "player_name": "Derrick Henry"
+    },
+    {
+      "pick": 21,
+      "provider": "moonshot",
+      "origin": "AI",
+      "mechanism": "AI_PICK",
+      "player_id": "00-0036389",
+      "player_name": "Jalen Hurts"
+    },
+    {
+      "pick": 22,
+      "provider": "openai",
+      "origin": "ORGANIZER",
+      "mechanism": "MALFORMED_OR_ILLEGAL_ACTION",
+      "player_id": "00-0027973",
+      "player_name": "Andy Dalton"
+    },
+    {
+      "pick": 23,
+      "provider": "mistral",
+      "origin": "AI",
+      "mechanism": "AI_PICK",
+      "player_id": "00-0030506",
+      "player_name": "Travis Kelce"
+    },
+    {
+      "pick": 24,
+      "provider": "deepseek",
+      "origin": "ORGANIZER",
+      "mechanism": "CONFIRMED_OUTPUT_LIMIT",
+      "player_id": "00-0028118",
+      "player_name": "Tyrod Taylor"
+    },
+    {
+      "pick": 25,
+      "provider": "meta",
+      "origin": "AI",
+      "mechanism": "AI_PICK",
+      "player_id": "00-0039338",
+      "player_name": "Brock Bowers"
+    },
+    {
+      "pick": 26,
+      "provider": "gemini",
+      "origin": "AI",
+      "mechanism": "AI_PICK",
+      "player_id": "00-0037740",
+      "player_name": "Garrett Wilson"
+    },
+    {
+      "pick": 27,
+      "provider": "zai",
+      "origin": "ORGANIZER",
+      "mechanism": "MALFORMED_OR_ILLEGAL_ACTION",
+      "player_id": "00-0028986",
+      "player_name": "Case Keenum"
+    },
+    {
+      "pick": 28,
+      "provider": "xai",
+      "origin": "AI",
+      "mechanism": "AI_PICK",
+      "player_id": "00-0036554",
+      "player_name": "Nico Collins"
+    },
+    {
+      "pick": 29,
+      "provider": "anthropic",
+      "origin": "ORGANIZER",
+      "mechanism": "MODEL_REQUESTED_HOLD",
+      "player_id": "00-0029604",
+      "player_name": "Kirk Cousins"
+    },
+    {
+      "pick": 30,
+      "provider": "qwen",
+      "origin": "ORGANIZER",
+      "mechanism": "MALFORMED_OR_ILLEGAL_ACTION",
+      "player_id": "00-0029892",
+      "player_name": "Kyle Juszczyk"
+    },
+    {
+      "pick": 31,
+      "provider": "qwen",
+      "origin": "ORGANIZER",
+      "mechanism": "MALFORMED_OR_ILLEGAL_ACTION",
+      "player_id": "00-0030035",
+      "player_name": "Adam Thielen"
+    },
+    {
+      "pick": 32,
+      "provider": "anthropic",
+      "origin": "ORGANIZER",
+      "mechanism": "MALFORMED_OR_ILLEGAL_ACTION",
+      "player_id": "00-0030279",
+      "player_name": "Keenan Allen"
+    },
+    {
+      "pick": 33,
+      "provider": "xai",
+      "origin": "AI",
+      "mechanism": "AI_PICK",
+      "player_id": "00-0037248",
+      "player_name": "James Cook"
+    },
+    {
+      "pick": 34,
+      "provider": "zai",
+      "origin": "AI",
+      "mechanism": "AI_PICK",
+      "player_id": "00-0039040",
+      "player_name": "De'Von Achane"
+    },
+    {
+      "pick": 35,
+      "provider": "gemini",
+      "origin": "AI",
+      "mechanism": "AI_PICK",
+      "player_id": "00-0036973",
+      "player_name": "Travis Etienne"
+    },
+    {
+      "pick": 36,
+      "provider": "meta",
+      "origin": "AI",
+      "mechanism": "AI_PICK",
+      "player_id": "00-0037238",
+      "player_name": "Drake London"
+    },
+    {
+      "pick": 37,
+      "provider": "deepseek",
+      "origin": "ORGANIZER",
+      "mechanism": "CONFIRMED_OUTPUT_LIMIT",
+      "player_id": "00-0030565",
+      "player_name": "Geno Smith"
+    },
+    {
+      "pick": 38,
+      "provider": "mistral",
+      "origin": "ORGANIZER",
+      "mechanism": "CONFIRMED_OUTPUT_LIMIT",
+      "player_id": "00-0031136",
+      "player_name": "Chris Boswell"
+    },
+    {
+      "pick": 39,
+      "provider": "openai",
+      "origin": "AI",
+      "mechanism": "AI_PICK",
+      "player_id": "00-0038120",
+      "player_name": "Breece Hall"
+    },
+    {
+      "pick": 40,
+      "provider": "moonshot",
+      "origin": "AI",
+      "mechanism": "AI_PICK",
+      "player_id": "00-0031381",
+      "player_name": "Davante Adams"
+    },
+    {
+      "pick": 41,
+      "provider": "moonshot",
+      "origin": "AI",
+      "mechanism": "AI_PICK",
+      "player_id": "00-0038134",
+      "player_name": "Kenneth Walker III"
+    },
+    {
+      "pick": 42,
+      "provider": "openai",
+      "origin": "AI",
+      "mechanism": "AI_PICK",
+      "player_id": "00-0039337",
+      "player_name": "Malik Nabers"
+    },
+    {
+      "pick": 43,
+      "provider": "mistral",
+      "origin": "ORGANIZER",
+      "mechanism": "CONFIRMED_OUTPUT_LIMIT",
+      "player_id": "00-0031203",
+      "player_name": "Cairo Santos"
+    },
+    {
+      "pick": 44,
+      "provider": "deepseek",
+      "origin": "ORGANIZER",
+      "mechanism": "CONFIRMED_OUTPUT_LIMIT",
+      "player_id": "00-0031235",
+      "player_name": "Odell Beckham Jr."
+    },
+    {
+      "pick": 45,
+      "provider": "meta",
+      "origin": "AI",
+      "mechanism": "AI_PICK",
+      "player_id": "00-0038543",
+      "player_name": "Jaxon Smith-Njigba"
+    },
+    {
+      "pick": 46,
+      "provider": "gemini",
+      "origin": "AI",
+      "mechanism": "AI_PICK",
+      "player_id": "00-0037744",
+      "player_name": "Trey McBride"
+    },
+    {
+      "pick": 47,
+      "provider": "zai",
+      "origin": "AI",
+      "mechanism": "AI_PICK",
+      "player_id": "00-0039893",
+      "player_name": "Brian Thomas Jr."
+    },
+    {
+      "pick": 48,
+      "provider": "xai",
+      "origin": "AI",
+      "mechanism": "AI_PICK",
+      "player_id": "00-0036442",
+      "player_name": "Joe Burrow"
+    },
+    {
+      "pick": 49,
+      "provider": "anthropic",
+      "origin": "AI",
+      "mechanism": "AI_PICK",
+      "player_id": "00-0033288",
+      "player_name": "George Kittle"
+    },
+    {
+      "pick": 50,
+      "provider": "qwen",
+      "origin": "ORGANIZER",
+      "mechanism": "MALFORMED_OR_ILLEGAL_ACTION",
+      "player_id": "00-0031237",
+      "player_name": "Teddy Bridgewater"
+    },
+    {
+      "pick": 51,
+      "provider": "qwen",
+      "origin": "ORGANIZER",
+      "mechanism": "MALFORMED_OR_ILLEGAL_ACTION",
+      "player_id": "00-0031408",
+      "player_name": "Mike Evans"
+    },
+    {
+      "pick": 52,
+      "provider": "anthropic",
+      "origin": "AI",
+      "mechanism": "AI_PICK",
+      "player_id": "00-0033906",
+      "player_name": "Alvin Kamara"
+    },
+    {
+      "pick": 53,
+      "provider": "xai",
+      "origin": "AI",
+      "mechanism": "AI_PICK",
+      "player_id": "00-0039849",
+      "player_name": "Marvin Harrison Jr."
+    },
+    {
+      "pick": 54,
+      "provider": "zai",
+      "origin": "ORGANIZER",
+      "mechanism": "MALFORMED_OR_ILLEGAL_ACTION",
+      "player_id": "00-0031484",
+      "player_name": "Chris Manhertz"
+    },
+    {
+      "pick": 55,
+      "provider": "gemini",
+      "origin": "AI",
+      "mechanism": "AI_PICK",
+      "player_id": "00-0039910",
+      "player_name": "Jayden Daniels"
+    },
+    {
+      "pick": 56,
+      "provider": "meta",
+      "origin": "AI",
+      "mechanism": "AI_PICK",
+      "player_id": "00-0038597",
+      "player_name": "Chase Brown"
+    },
+    {
+      "pick": 57,
+      "provider": "deepseek",
+      "origin": "ORGANIZER",
+      "mechanism": "CONFIRMED_OUTPUT_LIMIT",
+      "player_id": "00-0031492",
+      "player_name": "Jason Myers"
+    },
+    {
+      "pick": 58,
+      "provider": "mistral",
+      "origin": "ORGANIZER",
+      "mechanism": "CONFIRMED_OUTPUT_LIMIT",
+      "player_id": "00-0031503",
+      "player_name": "Jameis Winston"
+    },
+    {
+      "pick": 59,
+      "provider": "openai",
+      "origin": "ORGANIZER",
+      "mechanism": "MALFORMED_OR_ILLEGAL_ACTION",
+      "player_id": "00-0031588",
+      "player_name": "Stefon Diggs"
+    },
+    {
+      "pick": 60,
+      "provider": "moonshot",
+      "origin": "AI",
+      "mechanism": "AI_PICK",
+      "player_id": "00-0034753",
+      "player_name": "Mark Andrews"
+    },
+    {
+      "pick": 61,
+      "provider": "moonshot",
+      "origin": "AI",
+      "mechanism": "AI_PICK",
+      "player_id": "00-0035659",
+      "player_name": "Terry McLaurin"
+    },
+    {
+      "pick": 62,
+      "provider": "openai",
+      "origin": "ORGANIZER",
+      "mechanism": "MALFORMED_OR_ILLEGAL_ACTION",
+      "player_id": "00-0031595",
+      "player_name": "Michael Burton"
+    },
+    {
+      "pick": 63,
+      "provider": "mistral",
+      "origin": "ORGANIZER",
+      "mechanism": "CONFIRMED_OUTPUT_LIMIT",
+      "player_id": "00-0031610",
+      "player_name": "Darren Waller"
+    },
+    {
+      "pick": 64,
+      "provider": "deepseek",
+      "origin": "ORGANIZER",
+      "mechanism": "CONFIRMED_OUTPUT_LIMIT",
+      "player_id": "00-0032104",
+      "player_name": "Ameer Abdullah"
+    },
+    {
+      "pick": 65,
+      "provider": "meta",
+      "origin": "AI",
+      "mechanism": "AI_PICK",
+      "player_id": "00-0039361",
+      "player_name": "Bucky Irving"
+    },
+    {
+      "pick": 66,
+      "provider": "gemini",
+      "origin": "AI",
+      "mechanism": "AI_PICK",
+      "player_id": "00-0036613",
+      "player_name": "Jaylen Waddle"
+    },
+    {
+      "pick": 67,
+      "provider": "zai",
+      "origin": "AI",
+      "mechanism": "AI_PICK",
+      "player_id": "00-0039065",
+      "player_name": "Sam LaPorta"
+    },
+    {
+      "pick": 68,
+      "provider": "xai",
+      "origin": "AI",
+      "mechanism": "AI_PICK",
+      "player_id": "00-0035229",
+      "player_name": "T.J. Hockenson"
+    },
+    {
+      "pick": 69,
+      "provider": "anthropic",
+      "origin": "ORGANIZER",
+      "mechanism": "MALFORMED_OR_ILLEGAL_ACTION",
+      "player_id": "00-0032268",
+      "player_name": "Marcus Mariota"
+    },
+    {
+      "pick": 70,
+      "provider": "qwen",
+      "origin": "ORGANIZER",
+      "mechanism": "MALFORMED_OR_ILLEGAL_ACTION",
+      "player_id": "00-0032392",
+      "player_name": "Austin Hooper"
+    },
+    {
+      "pick": 71,
+      "provider": "qwen",
+      "origin": "ORGANIZER",
+      "mechanism": "UNCLASSIFIED_FALLBACK",
+      "player_id": "00-0032394",
+      "player_name": "Nick Vannett"
+    },
+    {
+      "pick": 72,
+      "provider": "anthropic",
+      "origin": "AI",
+      "mechanism": "AI_PICK",
+      "player_id": "tank01:dst:10",
+      "player_name": "DEN D/ST"
+    },
+    {
+      "pick": 73,
+      "provider": "xai",
+      "origin": "AI",
+      "mechanism": "AI_PICK",
+      "player_id": "00-0039075",
+      "player_name": "Puka Nacua"
+    },
+    {
+      "pick": 74,
+      "provider": "zai",
+      "origin": "ORGANIZER",
+      "mechanism": "MALFORMED_OR_ILLEGAL_ACTION",
+      "player_id": "00-0032398",
+      "player_name": "Chris Moore"
+    },
+    {
+      "pick": 75,
+      "provider": "gemini",
+      "origin": "AI",
+      "mechanism": "AI_PICK",
+      "player_id": "00-0037239",
+      "player_name": "Chris Olave"
+    },
+    {
+      "pick": 76,
+      "provider": "meta",
+      "origin": "AI",
+      "mechanism": "AI_PICK",
+      "player_id": "00-0034837",
+      "player_name": "Calvin Ridley"
+    },
+    {
+      "pick": 77,
+      "provider": "deepseek",
+      "origin": "ORGANIZER",
+      "mechanism": "CONFIRMED_OUTPUT_LIMIT",
+      "player_id": "00-0032464",
+      "player_name": "Kalif Raymond"
+    },
+    {
+      "pick": 78,
+      "provider": "mistral",
+      "origin": "ORGANIZER",
+      "mechanism": "MALFORMED_OR_ILLEGAL_ACTION",
+      "player_id": "00-0032569",
+      "player_name": "Wil Lutz"
+    },
+    {
+      "pick": 79,
+      "provider": "openai",
+      "origin": "ORGANIZER",
+      "mechanism": "MALFORMED_OR_ILLEGAL_ACTION",
+      "player_id": "00-0032726",
+      "player_name": "Ka'imi Fairbairn"
+    },
+    {
+      "pick": 80,
+      "provider": "moonshot",
+      "origin": "AI",
+      "mechanism": "AI_PICK",
+      "player_id": "00-0036912",
+      "player_name": "DeVonta Smith"
+    },
+    {
+      "pick": 81,
+      "provider": "moonshot",
+      "origin": "AI",
+      "mechanism": "AI_PICK",
+      "player_id": "00-0040666",
+      "player_name": "Omarion Hampton"
+    },
+    {
+      "pick": 82,
+      "provider": "openai",
+      "origin": "ORGANIZER",
+      "mechanism": "MALFORMED_OR_ILLEGAL_ACTION",
+      "player_id": "00-0032775",
+      "player_name": "Demarcus Robinson"
+    },
+    {
+      "pick": 83,
+      "provider": "mistral",
+      "origin": "ORGANIZER",
+      "mechanism": "CONFIRMED_OUTPUT_LIMIT",
+      "player_id": "00-0032918",
+      "player_name": "C.J. Ham"
+    },
+    {
+      "pick": 84,
+      "provider": "deepseek",
+      "origin": "ORGANIZER",
+      "mechanism": "CONFIRMED_OUTPUT_LIMIT",
+      "player_id": "00-0032950",
+      "player_name": "Carson Wentz"
+    },
+    {
+      "pick": 85,
+      "provider": "meta",
+      "origin": "AI",
+      "mechanism": "AI_PICK",
+      "player_id": "00-0033303",
+      "player_name": "Harrison Butker"
+    },
+    {
+      "pick": 86,
+      "provider": "gemini",
+      "origin": "AI",
+      "mechanism": "AI_PICK",
+      "player_id": "00-0035685",
+      "player_name": "David Montgomery"
+    },
+    {
+      "pick": 87,
+      "provider": "zai",
+      "origin": "AI",
+      "mechanism": "AI_PICK",
+      "player_id": "00-0033908",
+      "player_name": "Cooper Kupp"
+    },
+    {
+      "pick": 88,
+      "provider": "xai",
+      "origin": "AI",
+      "mechanism": "AI_PICK",
+      "player_id": "00-0033293",
+      "player_name": "Aaron Jones"
+    },
+    {
+      "pick": 89,
+      "provider": "anthropic",
+      "origin": "ORGANIZER",
+      "mechanism": "MALFORMED_OR_ILLEGAL_ACTION",
+      "player_id": "00-0032951",
+      "player_name": "Laquon Treadwell"
+    },
+    {
+      "pick": 90,
+      "provider": "qwen",
+      "origin": "AI",
+      "mechanism": "AI_PICK",
+      "player_id": "00-0033873",
+      "player_name": "Patrick Mahomes"
+    },
+    {
+      "pick": 91,
+      "provider": "qwen",
+      "origin": "AI",
+      "mechanism": "AI_PICK",
+      "player_id": "00-0033526",
+      "player_name": "Samaje Perine"
+    },
+    {
+      "pick": 92,
+      "provider": "anthropic",
+      "origin": "AI",
+      "mechanism": "AI_PICK",
+      "player_id": "00-0037692",
+      "player_name": "Brandon Aubrey"
+    },
+    {
+      "pick": 93,
+      "provider": "xai",
+      "origin": "AI",
+      "mechanism": "AI_PICK",
+      "player_id": "00-0039915",
+      "player_name": "Ladd McConkey"
+    },
+    {
+      "pick": 94,
+      "provider": "zai",
+      "origin": "ORGANIZER",
+      "mechanism": "MALFORMED_OR_ILLEGAL_ACTION",
+      "player_id": "00-0033077",
+      "player_name": "Dak Prescott"
+    },
+    {
+      "pick": 95,
+      "provider": "gemini",
+      "origin": "AI",
+      "mechanism": "AI_PICK",
+      "player_id": "00-0035719",
+      "player_name": "Deebo Samuel Sr."
+    },
+    {
+      "pick": 96,
+      "provider": "meta",
+      "origin": "AI",
+      "mechanism": "AI_PICK",
+      "player_id": "tank01:dst:27",
+      "player_name": "PHI D/ST"
+    },
+    {
+      "pick": 97,
+      "provider": "deepseek",
+      "origin": "ORGANIZER",
+      "mechanism": "CONFIRMED_OUTPUT_LIMIT",
+      "player_id": "00-0033090",
+      "player_name": "Hunter Henry"
+    },
+    {
+      "pick": 98,
+      "provider": "mistral",
+      "origin": "ORGANIZER",
+      "mechanism": "CONFIRMED_OUTPUT_LIMIT",
+      "player_id": "00-0033106",
+      "player_name": "Jared Goff"
+    },
+    {
+      "pick": 99,
+      "provider": "openai",
+      "origin": "ORGANIZER",
+      "mechanism": "MALFORMED_OR_ILLEGAL_ACTION",
+      "player_id": "00-0033110",
+      "player_name": "Tyler Higbee"
+    },
+    {
+      "pick": 100,
+      "provider": "moonshot",
+      "origin": "AI",
+      "mechanism": "AI_PICK",
+      "player_id": "00-0037247",
+      "player_name": "George Pickens"
+    },
+    {
+      "pick": 101,
+      "provider": "moonshot",
+      "origin": "AI",
+      "mechanism": "AI_PICK",
+      "player_id": "00-0034827",
+      "player_name": "DJ Moore"
+    },
+    {
+      "pick": 102,
+      "provider": "openai",
+      "origin": "AI",
+      "mechanism": "AI_PICK",
+      "player_id": "00-0038933",
+      "player_name": "Dalton Kincaid"
+    },
+    {
+      "pick": 103,
+      "provider": "mistral",
+      "origin": "ORGANIZER",
+      "mechanism": "CONFIRMED_OUTPUT_LIMIT",
+      "player_id": "00-0033119",
+      "player_name": "Jacoby Brissett"
+    },
+    {
+      "pick": 104,
+      "provider": "deepseek",
+      "origin": "ORGANIZER",
+      "mechanism": "CONFIRMED_OUTPUT_LIMIT",
+      "player_id": "00-0033217",
+      "player_name": "Mo Alie-Cox"
+    },
+    {
+      "pick": 105,
+      "provider": "meta",
+      "origin": "AI",
+      "mechanism": "AI_PICK",
+      "player_id": "00-0039067",
+      "player_name": "Rashee Rice"
+    },
+    {
+      "pick": 106,
+      "provider": "gemini",
+      "origin": "AI",
+      "mechanism": "AI_PICK",
+      "player_id": "00-0036875",
+      "player_name": "Rhamondre Stevenson"
+    },
+    {
+      "pick": 107,
+      "provider": "zai",
+      "origin": "AI",
+      "mechanism": "AI_PICK",
+      "player_id": "00-0040122",
+      "player_name": "Ashton Jeanty"
+    },
+    {
+      "pick": 108,
+      "provider": "xai",
+      "origin": "AI",
+      "mechanism": "AI_PICK",
+      "player_id": "00-0036158",
+      "player_name": "J.K. Dobbins"
+    },
+    {
+      "pick": 109,
+      "provider": "anthropic",
+      "origin": "AI",
+      "mechanism": "AI_PICK",
+      "player_id": "00-0036555",
+      "player_name": "Chuba Hubbard"
+    },
+    {
+      "pick": 110,
+      "provider": "qwen",
+      "origin": "AI",
+      "mechanism": "AI_PICK",
+      "player_id": "00-0033246",
+      "player_name": "Johnny Mundt"
+    },
+    {
+      "pick": 111,
+      "provider": "qwen",
+      "origin": "AI",
+      "mechanism": "AI_PICK",
+      "player_id": "00-0039150",
+      "player_name": "Bryce Young"
+    },
+    {
+      "pick": 112,
+      "provider": "anthropic",
+      "origin": "AI",
+      "mechanism": "AI_PICK",
+      "player_id": "00-0036410",
+      "player_name": "Tee Higgins"
+    },
+    {
+      "pick": 113,
+      "provider": "xai",
+      "origin": "AI",
+      "mechanism": "AI_PICK",
+      "player_id": "00-0033787",
+      "player_name": "Jake Elliott"
+    },
+    {
+      "pick": 114,
+      "provider": "zai",
+      "origin": "ORGANIZER",
+      "mechanism": "CONFIRMED_OUTPUT_LIMIT",
+      "player_id": "00-0033307",
+      "player_name": "Kendrick Bourne"
+    },
+    {
+      "pick": 115,
+      "provider": "gemini",
+      "origin": "AI",
+      "mechanism": "AI_PICK",
+      "player_id": "00-0033921",
+      "player_name": "Chris Godwin Jr."
+    },
+    {
+      "pick": 116,
+      "provider": "meta",
+      "origin": "AI",
+      "mechanism": "AI_PICK",
+      "player_id": "00-0036355",
+      "player_name": "Justin Herbert"
+    },
+    {
+      "pick": 117,
+      "provider": "deepseek",
+      "origin": "ORGANIZER",
+      "mechanism": "CONFIRMED_OUTPUT_LIMIT",
+      "player_id": "00-0033319",
+      "player_name": "Nick Mullens"
+    },
+    {
+      "pick": 118,
+      "provider": "mistral",
+      "origin": "ORGANIZER",
+      "mechanism": "CONFIRMED_OUTPUT_LIMIT",
+      "player_id": "00-0033375",
+      "player_name": "Tim Patrick"
+    },
+    {
+      "pick": 119,
+      "provider": "openai",
+      "origin": "AI",
+      "mechanism": "AI_PICK",
+      "player_id": "00-0040124",
+      "player_name": "Tetairoa McMillan"
+    },
+    {
+      "pick": 120,
+      "provider": "moonshot",
+      "origin": "ORGANIZER",
+      "mechanism": "CONFIRMED_OUTPUT_LIMIT",
+      "player_id": "00-0033376",
+      "player_name": "Patrick Ricard"
+    },
+    {
+      "pick": 121,
+      "provider": "moonshot",
+      "origin": "AI",
+      "mechanism": "AI_PICK",
+      "player_id": "tank01:dst:29",
+      "player_name": "SEA D/ST"
+    },
+    {
+      "pick": 122,
+      "provider": "openai",
+      "origin": "ORGANIZER",
+      "mechanism": "MALFORMED_OR_ILLEGAL_ACTION",
+      "player_id": "00-0033439",
+      "player_name": "Pharaoh Brown"
+    },
+    {
+      "pick": 123,
+      "provider": "mistral",
+      "origin": "ORGANIZER",
+      "mechanism": "CONFIRMED_OUTPUT_LIMIT",
+      "player_id": "00-0033537",
+      "player_name": "Deshaun Watson"
+    },
+    {
+      "pick": 124,
+      "provider": "deepseek",
+      "origin": "ORGANIZER",
+      "mechanism": "CONFIRMED_OUTPUT_LIMIT",
+      "player_id": "00-0033553",
+      "player_name": "James Conner"
+    },
+    {
+      "pick": 125,
+      "provider": "meta",
+      "origin": "AI",
+      "mechanism": "AI_PICK",
+      "player_id": "00-0038994",
+      "player_name": "Jordan Addison"
+    },
+    {
+      "pick": 126,
+      "provider": "gemini",
+      "origin": "AI",
+      "mechanism": "AI_PICK",
+      "player_id": "00-0039894",
+      "player_name": "Xavier Worthy"
+    },
+    {
+      "pick": 127,
+      "provider": "zai",
+      "origin": "ORGANIZER",
+      "mechanism": "CONFIRMED_OUTPUT_LIMIT",
+      "player_id": "00-0033555",
+      "player_name": "Mack Hollins"
+    },
+    {
+      "pick": 128,
+      "provider": "xai",
+      "origin": "AI",
+      "mechanism": "AI_PICK",
+      "player_id": "tank01:dst:3",
+      "player_name": "BAL D/ST"
+    },
+    {
+      "pick": 129,
+      "provider": "anthropic",
+      "origin": "AI",
+      "mechanism": "AI_PICK",
+      "player_id": "00-0040734",
+      "player_name": "TreVeyon Henderson"
+    },
+    {
+      "pick": 130,
+      "provider": "qwen",
+      "origin": "ORGANIZER",
+      "mechanism": "MALFORMED_OR_ILLEGAL_ACTION",
+      "player_id": "00-0033576",
+      "player_name": "Eric Saubert"
+    },
+    {
+      "pick": 131,
+      "provider": "qwen",
+      "origin": "AI",
+      "mechanism": "AI_PICK",
+      "player_id": "00-0035192",
+      "player_name": "Joey Slye"
+    },
+    {
+      "pick": 132,
+      "provider": "anthropic",
+      "origin": "AI",
+      "mechanism": "AI_PICK",
+      "player_id": "00-0039919",
+      "player_name": "Rome Odunze"
+    },
+    {
+      "pick": 133,
+      "provider": "xai",
+      "origin": "AI",
+      "mechanism": "AI_PICK",
+      "player_id": "00-0037240",
+      "player_name": "Jameson Williams"
+    },
+    {
+      "pick": 134,
+      "provider": "zai",
+      "origin": "AI",
+      "mechanism": "AI_PICK",
+      "player_id": "tank01:dst:16",
+      "player_name": "KC D/ST"
+    },
+    {
+      "pick": 135,
+      "provider": "gemini",
+      "origin": "AI",
+      "mechanism": "AI_PICK",
+      "player_id": "tank01:dst:28",
+      "player_name": "SF D/ST"
+    },
+    {
+      "pick": 136,
+      "provider": "meta",
+      "origin": "AI",
+      "mechanism": "AI_PICK",
+      "player_id": "00-0034351",
+      "player_name": "Dallas Goedert"
+    },
+    {
+      "pick": 137,
+      "provider": "deepseek",
+      "origin": "AI",
+      "mechanism": "AI_PICK",
+      "player_id": "tank01:dst:9",
+      "player_name": "DAL D/ST"
+    },
+    {
+      "pick": 138,
+      "provider": "mistral",
+      "origin": "ORGANIZER",
+      "mechanism": "CONFIRMED_OUTPUT_LIMIT",
+      "player_id": "00-0033589",
+      "player_name": "David Moore"
+    },
+    {
+      "pick": 139,
+      "provider": "openai",
+      "origin": "AI",
+      "mechanism": "AI_PICK",
+      "player_id": "00-0034348",
+      "player_name": "Courtland Sutton"
+    },
+    {
+      "pick": 140,
+      "provider": "moonshot",
+      "origin": "AI",
+      "mechanism": "AI_PICK",
+      "player_id": "00-0036162",
+      "player_name": "Tyler Bass"
+    },
+    {
+      "pick": 141,
+      "provider": "moonshot",
+      "origin": "AI",
+      "mechanism": "AI_PICK",
+      "player_id": "00-0035261",
+      "player_name": "Tony Pollard"
+    },
+    {
+      "pick": 142,
+      "provider": "openai",
+      "origin": "AI",
+      "mechanism": "AI_PICK",
+      "player_id": "tank01:dst:12",
+      "player_name": "GB D/ST"
+    },
+    {
+      "pick": 143,
+      "provider": "mistral",
+      "origin": "ORGANIZER",
+      "mechanism": "CONFIRMED_OUTPUT_LIMIT",
+      "player_id": "tank01:dst:1",
+      "player_name": "ARI D/ST"
+    },
+    {
+      "pick": 144,
+      "provider": "deepseek",
+      "origin": "ORGANIZER",
+      "mechanism": "CONFIRMED_OUTPUT_LIMIT",
+      "player_id": "00-0033662",
+      "player_name": "Cooper Rush"
+    },
+    {
+      "pick": 145,
+      "provider": "meta",
+      "origin": "AI",
+      "mechanism": "AI_PICK",
+      "player_id": "00-0036997",
+      "player_name": "Javonte Williams"
+    },
+    {
+      "pick": 146,
+      "provider": "gemini",
+      "origin": "AI",
+      "mechanism": "AI_PICK",
+      "player_id": "00-0036854",
+      "player_name": "Evan McPherson"
+    },
+    {
+      "pick": 147,
+      "provider": "zai",
+      "origin": "AI",
+      "mechanism": "AI_PICK",
+      "player_id": "00-0036893",
+      "player_name": "Najee Harris"
+    },
+    {
+      "pick": 148,
+      "provider": "xai",
+      "origin": "AI",
+      "mechanism": "AI_PICK",
+      "player_id": "00-0037228",
+      "player_name": "Jaylen Warren"
+    },
+    {
+      "pick": 149,
+      "provider": "anthropic",
+      "origin": "AI",
+      "mechanism": "AI_PICK",
+      "player_id": "00-0035640",
+      "player_name": "DK Metcalf"
+    },
+    {
+      "pick": 150,
+      "provider": "qwen",
+      "origin": "AI",
+      "mechanism": "AI_PICK",
+      "player_id": "tank01:dst:11",
+      "player_name": "DET D/ST"
+    }
+  ]
+}

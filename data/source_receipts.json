@@ -1,0 +1,256 @@
+{
+  "schema_version": "miomaci.football.public-source-receipts/1",
+  "transformation": "Explicit metadata projection; resolved URLs, headers and all unlisted fields omitted.",
+  "receipts": [
+    {
+      "source_receipt_path": "evidence/week1_resolution_20260921/ids.receipt.json",
+      "original_receipt_sha256": "ea2fb125194c709d275ca72d2c0b2a2ef87c75f80e81f21ddf690a5f6d6575e2",
+      "download_url": "https://github.com/nflverse/nflverse-data/releases/download/players/players.csv",
+      "http_status": 200,
+      "raw_artifact_sha256": "8ee5ff71c580034b8321d09a2ffa706dccf65a5461719fdf6fcba9dd2d9d1471",
+      "bytes": 7292417,
+      "retrieved_at": "2026-09-21T01:40:15.523624+00:00",
+      "third_party_bytes_included": false
+    },
+    {
+      "source_receipt_path": "evidence/week1_resolution_20260921/pbp.receipt.json",
+      "original_receipt_sha256": "5b82d594179a8467c1bb5b481f8a6a9f21dfd40fab0ba853bfb037130f74e352",
+      "download_url": "https://github.com/nflverse/nflverse-data/releases/download/pbp/play_by_play_2026.csv",
+      "http_status": 200,
+      "raw_artifact_sha256": "a6e01f4cd20362e75e0796509ea5d62451f4cfa9c9a23a3d41cdc89319aa2735",
+      "bytes": 10270962,
+      "retrieved_at": "2026-09-21T01:40:13.567112+00:00",
+      "third_party_bytes_included": false
+    },
+    {
+      "source_receipt_path": "evidence/week1_resolution_20260921/player.receipt.json",
+      "original_receipt_sha256": "261bd683a6f1e567a1b204ea0a8ffaebcfa7963b3a98b055c90b05c13de5ee22",
+      "download_url": "https://github.com/nflverse/nflverse-data/releases/download/stats_player/stats_player_week_2026.csv",
+      "http_status": 200,
+      "raw_artifact_sha256": "a0fe428ebcf2775e397171dfa019036ea71ae2f4b7d0f0aafed763c7c3de1d06",
+      "bytes": 932904,
+      "retrieved_at": "2026-09-21T01:40:12.696970+00:00",
+      "third_party_bytes_included": false
+    },
+    {
+      "source_receipt_path": "evidence/week1_resolution_20260921/rosters.receipt.json",
+      "original_receipt_sha256": "486b81080247f1580653e9531e2d1660df234c71b22956f47554d92e696ea4e3",
+      "download_url": "https://github.com/nflverse/nflverse-data/releases/download/weekly_rosters/roster_weekly_2026.csv",
+      "http_status": 200,
+      "raw_artifact_sha256": "73f1d36a204ec591b36987ffbd82411ecd9f9abf92a6f2fb92267d2d1ab7f70a",
+      "bytes": 1764103,
+      "retrieved_at": "2026-09-21T01:40:14.304711+00:00",
+      "third_party_bytes_included": false
+    },
+    {
+      "source_receipt_path": "evidence/week1_resolution_20260921/schedule.receipt.json",
+      "original_receipt_sha256": "8aa308e3332cf2c13e95255b7391bfe68776c30bfe03623d374242e3d71a3990",
+      "download_url": "https://raw.githubusercontent.com/nflverse/nfldata/master/data/games.csv",
+      "http_status": 200,
+      "raw_artifact_sha256": "d5daa133af2ce6b034474fdee04148cea3d409b5d24a33cdbb6f611de4b9ee5b",
+      "bytes": 2179197,
+      "retrieved_at": "2026-09-21T01:40:13.448175+00:00",
+      "third_party_bytes_included": false
+    },
+    {
+      "source_receipt_path": "evidence/week1_resolution_20260921/snaps.receipt.json",
+      "original_receipt_sha256": "011a2b65c0eca8b016cb148a9432c03f4e7e49c076bac719d29be83dc60195ad",
+      "download_url": "https://github.com/nflverse/nflverse-data/releases/download/snap_counts/snap_counts_2026.csv",
+      "http_status": 200,
+      "raw_artifact_sha256": "271167b454534d6e868c20f7768654a0fa7a7a1cc28c0ae32325678ee138a967",
+      "bytes": 142445,
+      "retrieved_at": "2026-09-21T01:40:12.595385+00:00",
+      "third_party_bytes_included": false
+    },
+    {
+      "source_receipt_path": "evidence/week1_resolution_20260921/team.receipt.json",
+      "original_receipt_sha256": "47632de389b8a20b4b373ec79d862dca29e095d7e404145afb4e1c4f9ef48e6f",
+      "download_url": "https://github.com/nflverse/nflverse-data/releases/download/stats_team/stats_team_week_2026.csv",
+      "http_status": 200,
+      "raw_artifact_sha256": "70756f34087f03034a807484dd06574cc5f91a33bbdebd1d6cf77f80c975df03",
+      "bytes": 26030,
+      "retrieved_at": "2026-09-21T01:40:12.645242+00:00",
+      "third_party_bytes_included": false
+    },
+    {
+      "source_receipt_path": "evidence/score_catchup_20261006/permission_recovery/ids.receipt.json",
+      "original_receipt_sha256": "7a2a765a858c02b8229bd9c677d46281664b7199a6f7f16605ecfc9f8568261e",
+      "download_url": "https://github.com/nflverse/nflverse-data/releases/download/players/players.csv",
+      "http_status": 200,
+      "raw_artifact_sha256": "d531dcff2d3ff681f02210d314f6e9f16c671c0beefa85fd311a55363675d4cc",
+      "bytes": 7298556,
+      "retrieved_at": "2026-10-07T03:19:35.146301+00:00",
+      "third_party_bytes_included": false
+    },
+    {
+      "source_receipt_path": "evidence/score_catchup_20261006/permission_recovery/pbp.receipt.json",
+      "original_receipt_sha256": "3d704f4c6eb04e0920c9b3a43452bbb2286a105c38bf21b4d4156043f42ce1c9",
+      "download_url": "https://github.com/nflverse/nflverse-data/releases/download/pbp/play_by_play_2026.csv",
+      "http_status": 200,
+      "raw_artifact_sha256": "f01a557cce332f91faeda3a879cbd5f7ec9dfd42ec58a6c3a33abde9488d5498",
+      "bytes": 22408059,
+      "retrieved_at": "2026-10-07T03:19:35.543100+00:00",
+      "third_party_bytes_included": false
+    },
+    {
+      "source_receipt_path": "evidence/score_catchup_20261006/permission_recovery/player.receipt.json",
+      "original_receipt_sha256": "6e32a5aec435206512c3831db2c0664c710c5c57c4d916139ee733db4858b20c",
+      "download_url": "https://github.com/nflverse/nflverse-data/releases/download/stats_player/stats_player_week_2026.csv",
+      "http_status": 200,
+      "raw_artifact_sha256": "81c5bcc263d7b04289c3bfb19e1ae510c289d91fc626a3a33169c0f073aceb6f",
+      "bytes": 1981105,
+      "retrieved_at": "2026-10-07T03:19:34.691214+00:00",
+      "third_party_bytes_included": false
+    },
+    {
+      "source_receipt_path": "evidence/score_catchup_20261006/permission_recovery/rosters.receipt.json",
+      "original_receipt_sha256": "d6035123e762328a59d42e720d4ee93cffc8331b49ec3578f9dc3a989fb25789",
+      "download_url": "https://github.com/nflverse/nflverse-data/releases/download/weekly_rosters/roster_weekly_2026.csv",
+      "http_status": 200,
+      "raw_artifact_sha256": "fa51a2fbf2b5997009fef30c52066cd080fb0258da6558fd7b89600d546b2ec6",
+      "bytes": 4222435,
+      "retrieved_at": "2026-10-07T03:19:35.518486+00:00",
+      "third_party_bytes_included": false
+    },
+    {
+      "source_receipt_path": "evidence/score_catchup_20261006/permission_recovery/schedule.receipt.json",
+      "original_receipt_sha256": "06a6fdebd9d6aad3c4a29892a43c1fc198d84071ac0693e82164e7aa54ef4485",
+      "download_url": "https://raw.githubusercontent.com/nflverse/nfldata/master/data/games.csv",
+      "http_status": 200,
+      "raw_artifact_sha256": "94e23fda59d58d6e1ec4277799b5d5d4757dd55caf482afc02a44f89210f9d08",
+      "bytes": 2183211,
+      "retrieved_at": "2026-10-07T03:19:35.279898+00:00",
+      "third_party_bytes_included": false
+    },
+    {
+      "source_receipt_path": "evidence/score_catchup_20261006/permission_recovery/snaps.receipt.json",
+      "original_receipt_sha256": "eab931e639c9462d085232e003f548257e2a663378bbfd7cea4e6f95cbbcb304",
+      "download_url": "https://github.com/nflverse/nflverse-data/releases/download/snap_counts/snap_counts_2026.csv",
+      "http_status": 200,
+      "raw_artifact_sha256": "125e7bfba67b6b13172f29e580345bb7e383d93a4596bc389e3cb8a8d2e8245b",
+      "bytes": 535718,
+      "retrieved_at": "2026-10-07T03:19:34.478708+00:00",
+      "third_party_bytes_included": false
+    },
+    {
+      "source_receipt_path": "evidence/score_catchup_20261006/permission_recovery/team.receipt.json",
+      "original_receipt_sha256": "89cc77edfdde77bae142e84b06393d60dcd5200c05759a6144fe7174b1608001",
+      "download_url": "https://github.com/nflverse/nflverse-data/releases/download/stats_team/stats_team_week_2026.csv",
+      "http_status": 200,
+      "raw_artifact_sha256": "5703ab3149d9be3ca9ae7e4ffa87411dcc9cccf0f542d3125b08a3e8b5eac391",
+      "bytes": 53166,
+      "retrieved_at": "2026-10-07T03:19:34.407061+00:00",
+      "third_party_bytes_included": false
+    },
+    {
+      "source_receipt_path": "evidence/score_catchup_20261015/ids.receipt.json",
+      "original_receipt_sha256": "631864f08f2a9f73b6ebcca590e304f343778254f709449245ded4513913b7e7",
+      "download_url": "https://github.com/nflverse/nflverse-data/releases/download/players/players.csv",
+      "http_status": 200,
+      "raw_artifact_sha256": "6270eb598bee3dff245d955c612de8366aeb697a0a9431d79e0cae95fab35adc",
+      "bytes": 7303216,
+      "retrieved_at": "2026-10-15T23:29:46.861778+00:00",
+      "third_party_bytes_included": false
+    },
+    {
+      "source_receipt_path": "evidence/score_catchup_20261015/pbp.receipt.json",
+      "original_receipt_sha256": "c4eae1438e101f1c89c31084ad9c4c39c0f4cd2633fc0d4f3d5a490af8f4082c",
+      "download_url": "https://github.com/nflverse/nflverse-data/releases/download/pbp/play_by_play_2026.csv",
+      "http_status": 200,
+      "raw_artifact_sha256": "a8d2dc42d7670eda7fd6b5d3702acc5e06c191933ea151f655cb755e321f139a",
+      "bytes": 27772711,
+      "retrieved_at": "2026-10-15T23:29:46.824988+00:00",
+      "third_party_bytes_included": false
+    },
+    {
+      "source_receipt_path": "evidence/score_catchup_20261015/player.receipt.json",
+      "original_receipt_sha256": "2def49d2c05de4807581e332d0e922552d6a944a0606608ceef76a5acc5718d2",
+      "download_url": "https://github.com/nflverse/nflverse-data/releases/download/stats_player/stats_player_week_2026.csv",
+      "http_status": 200,
+      "raw_artifact_sha256": "bbca0279dc333ebc43877d3dc4cf7433cb3d174fda8f04509f86227ef9474619",
+      "bytes": 2452455,
+      "retrieved_at": "2026-10-15T23:29:45.859292+00:00",
+      "third_party_bytes_included": false
+    },
+    {
+      "source_receipt_path": "evidence/score_catchup_20261015/rosters.receipt.json",
+      "original_receipt_sha256": "d06cc3c5fe398eed63b4a24c0ebf8f4a82aeaa6fd9cb30a1fc705fea2ec67331",
+      "download_url": "https://github.com/nflverse/nflverse-data/releases/download/weekly_rosters/roster_weekly_2026.csv",
+      "http_status": 200,
+      "raw_artifact_sha256": "b7b55bf8140d205c3d6ca51b5305bf041fac805f8dd902d2d035ecec9c30c3a0",
+      "bytes": 4992254,
+      "retrieved_at": "2026-10-15T23:29:46.782873+00:00",
+      "third_party_bytes_included": false
+    },
+    {
+      "source_receipt_path": "evidence/score_catchup_20261015/schedule.receipt.json",
+      "original_receipt_sha256": "28f8a66f9613ddaf329e01e40f8a6161bc1eb6cb8f5039c9e23f5a777b25c22c",
+      "download_url": "https://raw.githubusercontent.com/nflverse/nfldata/master/data/games.csv",
+      "http_status": 200,
+      "raw_artifact_sha256": "bef567a464e55c0ff0ba235a55763cbfdb480fa496860f076ed4a6f3f5383e93",
+      "bytes": 2184526,
+      "retrieved_at": "2026-10-15T23:29:46.558726+00:00",
+      "third_party_bytes_included": false
+    },
+    {
+      "source_receipt_path": "evidence/score_catchup_20261015/snaps.receipt.json",
+      "original_receipt_sha256": "ab161f79ce41ed927b6cbe015c883faaa18a59c1fb177076a24c13de8e22e45a",
+      "download_url": "https://github.com/nflverse/nflverse-data/releases/download/snap_counts/snap_counts_2026.csv",
+      "http_status": 200,
+      "raw_artifact_sha256": "e4d877bf670c5bc47a1ac863cc3a28a0f4b2f926872cc03666b27b31d6ea332b",
+      "bytes": 661381,
+      "retrieved_at": "2026-10-15T23:29:45.730208+00:00",
+      "third_party_bytes_included": false
+    },
+    {
+      "source_receipt_path": "evidence/score_catchup_20261015/team.receipt.json",
+      "original_receipt_sha256": "643c94bf1a3d4accf40f8964f29a59c44b3672bfcdfdc8c60b6c094547540de1",
+      "download_url": "https://github.com/nflverse/nflverse-data/releases/download/stats_team/stats_team_week_2026.csv",
+      "http_status": 200,
+      "raw_artifact_sha256": "354c2f6e50fbe7431b3034d0ef815a76a98c322bff9989bea733b5d4d6c9b8d0",
+      "bytes": 65213,
+      "retrieved_at": "2026-10-15T23:29:45.667018+00:00",
+      "third_party_bytes_included": false
+    },
+    {
+      "source_receipt_path": "evidence/score_catchup_20261015/official/car_bye.receipt.json",
+      "original_receipt_sha256": "0f94c784da91600b003a547eb16711e2e132daea0b825b88194b012a5f5de3e1",
+      "download_url": "https://www.panthers.com/schedule/2026/",
+      "http_status": 200,
+      "raw_artifact_sha256": "fff31cbd08bbbd95b372c2b05388895922f80d407ef63ea5943b6c12748eb202",
+      "bytes": 432874,
+      "retrieved_at": "2026-10-15T23:32:08.361967+00:00",
+      "third_party_bytes_included": false
+    },
+    {
+      "source_receipt_path": "evidence/score_catchup_20261015/official/kc_bye.receipt.json",
+      "original_receipt_sha256": "0727aa33f42c7953d112cdb754329001e76029dfc3f6163ab4e2214beb9c7501",
+      "download_url": "https://www.chiefs.com/schedule/2026/",
+      "http_status": 200,
+      "raw_artifact_sha256": "25df923244fa4aca05383e6807fcc265b8d208962619eb44d47b720f47505cd1",
+      "bytes": 384536,
+      "retrieved_at": "2026-10-15T23:32:08.294960+00:00",
+      "third_party_bytes_included": false
+    },
+    {
+      "source_receipt_path": "evidence/score_catchup_20261015/official/sea_game.receipt.json",
+      "original_receipt_sha256": "ef8c8aa539577f8228cdc9563151cb0bbe57b17b97e9fda9e548022f77d0d238",
+      "download_url": "https://www.seahawks.com/game-day/2026/reg-week5/seahawks-vs-49ers/",
+      "http_status": 200,
+      "raw_artifact_sha256": "c92bea81ffe59c26c4b381c8ead6bd7dc0eaf805120b7a4077b1a1849605cf4d",
+      "bytes": 802387,
+      "retrieved_at": "2026-10-15T23:32:08.575700+00:00",
+      "third_party_bytes_included": false
+    },
+    {
+      "source_receipt_path": "evidence/score_catchup_20261015/official/sf_touchdown.receipt.json",
+      "original_receipt_sha256": "a326c8e00e087fa07bc9525ae0372e29235d3d578459a99b5cb50a2284b6f566",
+      "download_url": "https://www.49ers.com/news/49ers-are-5-0-with-a-32-29-win-in-week-5-matchup-vs-seahawks-takeaways-from-sfvssea",
+      "http_status": 200,
+      "raw_artifact_sha256": "46f0873c7faf99d3cec1ee3c4b1a1ba3a805a9a284bd7338dd2610a690548145",
+      "bytes": 463528,
+      "retrieved_at": "2026-10-15T23:32:08.048959+00:00",
+      "third_party_bytes_included": false
+    }
+  ]
+}

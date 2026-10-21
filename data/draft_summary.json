@@ -1,0 +1,105 @@
+{
+  "schema_version": "miomaci.football.public-draft-summary/1",
+  "season": 2026,
+  "draft_date": "2026-09-09",
+  "settled_picks": 150,
+  "ai_picks": 96,
+  "organizer_picks": 54,
+  "fallback_policy": "ASCENDING_PLAYER_ID_LEGAL_COMPLETION",
+  "opening_lineup_author": "ORGANIZER",
+  "opening_lineup_policy": "FIRST_FEASIBLE_IN_DRAFT_ORDER_V1",
+  "fresh_injury_check_performed": false,
+  "in_season_ai_management_operated": false,
+  "providers": [
+    {
+      "provider": "anthropic",
+      "label": "Anthropic",
+      "model_identities_observed": [
+        "claude-sonnet-5"
+      ],
+      "ai_picks": 11,
+      "organizer_picks": 4
+    },
+    {
+      "provider": "deepseek",
+      "label": "DeepSeek",
+      "model_identities_observed": [
+        "deepseek-v4-pro"
+      ],
+      "ai_picks": 1,
+      "organizer_picks": 14
+    },
+    {
+      "provider": "gemini",
+      "label": "Gemini",
+      "model_identities_observed": [
+        "gemini-3.7-flash"
+      ],
+      "ai_picks": 15,
+      "organizer_picks": 0
+    },
+    {
+      "provider": "meta",
+      "label": "Meta",
+      "model_identities_observed": [
+        "muse-spark-1.3"
+      ],
+      "ai_picks": 15,
+      "organizer_picks": 0
+    },
+    {
+      "provider": "mistral",
+      "label": "Mistral",
+      "model_identities_observed": [
+        "mistral-medium-3-5"
+      ],
+      "ai_picks": 2,
+      "organizer_picks": 13
+    },
+    {
+      "provider": "moonshot",
+      "label": "Moonshot",
+      "model_identities_observed": [
+        "kimi-k3"
+      ],
+      "ai_picks": 14,
+      "organizer_picks": 1
+    },
+    {
+      "provider": "openai",
+      "label": "OpenAI",
+      "model_identities_observed": [
+        "gpt-5.6-terra"
+      ],
+      "ai_picks": 7,
+      "organizer_picks": 8
+    },
+    {
+      "provider": "qwen",
+      "label": "Qwen",
+      "model_identities_observed": [
+        "qwen3.8-max"
+      ],
+      "ai_picks": 8,
+      "organizer_picks": 7
+    },
+    {
+      "provider": "xai",
+      "label": "xAI",
+      "model_identities_observed": [
+        "grok-4.6"
+      ],
+      "ai_picks": 15,
+      "organizer_picks": 0
+    },
+    {
+      "provider": "zai",
+      "label": "Z.ai",
+      "model_identities_observed": [
+        "glm-5.3"
+      ],
+      "ai_picks": 8,
+      "organizer_picks": 7
+    }
+  ]
+}
